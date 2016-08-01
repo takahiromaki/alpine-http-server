@@ -1,0 +1,25 @@
+{
+  "name": "alpine-http-server",
+  "version": "1.0.0",
+  "description": "## docker run command",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takahiromaki/alpine-http-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takahiromaki/alpine-http-server/issues"
+  },
+  "homepage": "https://github.com/takahiromaki/alpine-http-server#readme",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "livescript": "^1.5.0",
+    "validate-dockerfile": "^1.8.1"
+  }
+}
