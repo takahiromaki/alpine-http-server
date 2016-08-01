@@ -1,5 +1,5 @@
 # alpine-http-server
-
+[![Build Status](https://travis-ci.org/takahiromaki/alpine-http-server.svg?branch=master)](https://travis-ci.org/takahiromaki/alpine-http-server)
 ## docker run command
 
 ```bash
