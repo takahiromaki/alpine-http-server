@@ -4,7 +4,7 @@
 ## docker run command
 
 ```bash
-$ docker run --name http-server
+$ docker run --name http-server \
   -p 80:8080 \
   -v /path/to/project:/home \
   -d \
